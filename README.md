@@ -26,3 +26,7 @@ Task 03,Descrição da Task 03
 Task 04,Descrição da Task 04
 Task 05,Descrição da Task 05
 ```
+Then run the following command:
+```bash
+npm run import-csv
+```
